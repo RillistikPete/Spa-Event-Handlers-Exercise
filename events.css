@@ -1,0 +1,19 @@
+.blue {
+	color: blue;
+}
+
+.hulkify {
+	font-size: 2em;
+}
+
+.capture-it {
+	border: 2px dotted blue;
+}
+
+.rounded {
+	border-radius: 20px;
+}
+
+button {
+	display: block;
+}
